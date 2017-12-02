@@ -1,0 +1,28 @@
+1>------ 已启动生成: 项目: FileDlgDemo, 配置: Debug Win32 ------
+1>正在编译资源...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>正在链接...
+1>LINK : fatal error LNK1000: Internal error during IncrBuildImage
+1>  Version 9.00.21022.08
+1>  ExceptionCode            = C0000005
+1>  ExceptionFlags           = 00000000
+1>  ExceptionAddress         = 003EFCF7 (00370000) "d:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin\link.exe"
+1>  NumberParameters         = 00000002
+1>  ExceptionInformation[ 0] = 00000000
+1>  ExceptionInformation[ 1] = 0133D670
+1>CONTEXT:
+1>  Eax    = 400C444C  Esp    = 0054EE84
+1>  Ebx    = 40008160  Ebp    = 0054EEAC
+1>  Ecx    = 0133D670  Esi    = 400C42C8
+1>  Edx    = 0054EE9C  Edi    = 0037D6C0
+1>  Eip    = 003EFCF7  EFlags = 00010246
+1>  SegCs  = 00000023  SegDs  = 0000002B
+1>  SegSs  = 0000002B  SegEs  = 0000002B
+1>  SegFs  = 00000053  SegGs  = 0000002B
+1>  Dr0    = 00000000  Dr3    = 00000000
+1>  Dr1    = 00000000  Dr6    = 00000000
+1>  Dr2    = 00000000  Dr7    = 00000000
+1>生成日志保存在“file://e:\WorkGroup\FileDlgDemo\Debug\BuildLog.htm”
+1>FileDlgDemo - 1 个错误，0 个警告
+========== 生成: 成功 0 个，失败 1 个，最新 0 个，跳过 0 个 ==========
